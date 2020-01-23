@@ -1,11 +1,11 @@
 <style>
 
 @import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou&display=swap');
- font-family: 'ZCOOL QingKe HuangYou', cursive;
-
+ 
 html {
 background-color: black;
 color: white;
+font-family: 'ZCOOL QingKe HuangYou', cursive;
 
 }
 
