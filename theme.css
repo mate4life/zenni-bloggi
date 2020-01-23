@@ -10,7 +10,21 @@ background-color: black;
 color: white;
 }
 
+a:link {
+  color:hotpink;
+}
 
+a:visited {
+  color:hotpink;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
 
 body {
 
