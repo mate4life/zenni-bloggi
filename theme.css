@@ -11,18 +11,20 @@ color: white;
 }
 
 a:link {
-  color:hotpink;
+  color:blue;
 }
 
 a:visited {
-  color:hotpink;
+  color:cyan;
 }
 
 a:hover {
+  color:hotpink;
   text-decoration: underline;
 }
 
 a:active {
+  color:hotpink;
   text-decoration: underline;
 }
 
