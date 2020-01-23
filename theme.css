@@ -1,5 +1,10 @@
 <style>
 
+{
+background-color: black;
+color: white;
+}
+
 head {
 @import url('https://rsms.me/inter/inter.css');
 html { font-family: 'Inter', sans-serif; }
