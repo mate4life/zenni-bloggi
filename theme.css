@@ -5,13 +5,19 @@ html { font-family: 'Inter', sans-serif; }
 }
 
 <style>
+
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
 body {
 
   margin-top: 20px;
   margin-bottom: 20px;
   margin-right: 20px;
   margin-left: 20px;
-  font-family: 'Inter', sans-serif;
 
 }
 
