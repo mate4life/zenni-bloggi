@@ -47,6 +47,7 @@ p1 {
 
 t1 {
   font-family: "Lucida Console", Monaco, monospace;
+  max-width: 800px;
 
 }
 </style>
