@@ -34,12 +34,19 @@ body {
 
 }
 
+
+
 div {
   max-width: 470px;
 }
 
 p1 {
   text-indent: 35px;
+
+}
+
+title {
+  font-family: fixed-width;
 
 }
 </style>
