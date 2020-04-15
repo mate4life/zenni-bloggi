@@ -37,7 +37,7 @@ body {
 
 
 div {
-  max-width: 800px;
+  max-width: 470px;
 }
 
 p1 {
@@ -45,10 +45,5 @@ p1 {
 
 }
 
-t1 {
-  font-size: 8px;
-  font-family: "Lucida Console", Monaco, monospace;
-  max-width: 800px;
 
-}
 </style>
